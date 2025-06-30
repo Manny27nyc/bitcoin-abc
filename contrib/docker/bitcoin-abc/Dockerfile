@@ -1,4 +1,4 @@
-FROM debian:buster-slim
+FROM debian:10.12-slim
 
 ARG RELEASE_ARCHIVE
 COPY "${RELEASE_ARCHIVE}" /tmp
