@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import React, { useState } from 'react';
 import { Alert, Modal } from 'antd';
 import { ThemedQrcodeOutlined } from '@components/Common/CustomIcons';

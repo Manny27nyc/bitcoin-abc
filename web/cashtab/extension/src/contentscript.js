@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 const extension = require('extensionizer');
 
 // Insert flag into window object to denote CashTab is available and active as a browser extension

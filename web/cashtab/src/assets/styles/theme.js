@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 export const theme = {
     primary: '#00ABE7',
     brandSecondary: '#CD0BC3',

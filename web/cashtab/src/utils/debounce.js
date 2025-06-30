@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 export default (routine, timeout = 500) => {
     let timeoutId;
 

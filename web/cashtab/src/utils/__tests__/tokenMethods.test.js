@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { checkForTokenById } from '../tokenMethods';
 import { mockTokens } from '../__mocks__/mockTokenList';
 

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { ValidationError } from 'cashaddrjs';
 import { isValidCashPrefix, isValidTokenPrefix, toLegacy } from '../Ticker';
 

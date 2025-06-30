@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 // Expected result of applying parseTxData to mockTxDataWityhPassthrough[0]
 export const mockSentCashTx = [
     {

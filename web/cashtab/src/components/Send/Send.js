@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import React, { useState, useEffect } from 'react';
 import { WalletContext } from '@utils/context';
 import { Form, notification, message, Spin, Modal, Alert } from 'antd';

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import CashtabBase from './CashtabBase';
 
 import type {

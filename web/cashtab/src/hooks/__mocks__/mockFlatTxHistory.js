@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 export default [
     {
         address: 'bitcoincash:qqvcsnz9x9nu7vq35vmrkjc7hkfxhhs9nuv44zm0ed',

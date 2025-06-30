@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 const util = require('util');
 
 jasmine.getEnv().addReporter({

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 // Currency endpoints, logic, converters and formatters
 
 import BigNumber from 'bignumber.js';

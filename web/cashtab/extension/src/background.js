@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 const extension = require('extensionizer');
 
 const NOTIFICATION_HEIGHT = 600;

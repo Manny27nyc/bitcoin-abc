@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import styled from 'styled-components';
 
 const H3 = styled.h3`

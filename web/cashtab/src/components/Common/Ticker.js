@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import mainLogo from '@assets/logo_primary.png';
 import tokenLogo from '@assets/logo_secondary.png';
 import cashaddr from 'cashaddrjs';

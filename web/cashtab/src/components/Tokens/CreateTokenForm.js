@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import React, { useState } from 'react';
 import { AntdFormWrapper } from '@components/Common/EnhancedInputs';
 import { TokenCollapse } from '@components/Common/StyledCollapse';

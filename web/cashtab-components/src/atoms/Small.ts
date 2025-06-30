@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import styled, { css } from 'styled-components';
 
 const Small = styled('span')<{ muted?: boolean }>`

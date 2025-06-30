@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import React from 'react';
 import styled from 'styled-components';
 import makeBlockie from 'ethereum-blockies-base64';

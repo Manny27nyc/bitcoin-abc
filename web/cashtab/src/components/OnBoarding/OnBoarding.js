@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import React, { useState } from 'react';
 import styled from 'styled-components';
 import { WalletContext } from '@utils/context';

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 const useImage = () => {
     const createImage = url =>
         new Promise((resolve, reject) => {

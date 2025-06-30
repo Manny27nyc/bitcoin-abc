@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 // utils/GoogleAnalytics.js
 import React, { Component } from 'react';
 import PropTypes from 'prop-types';

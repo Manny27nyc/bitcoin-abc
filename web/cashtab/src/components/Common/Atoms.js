@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import styled from 'styled-components';
 
 export const LoadingCtn = styled.div`

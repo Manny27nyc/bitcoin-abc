@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import React from 'react';
 import { LoadingOutlined } from '@ant-design/icons';
 import { CashLoader } from '@components/Common/CustomIcons';

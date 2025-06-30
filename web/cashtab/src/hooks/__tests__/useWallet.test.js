@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import useWallet from '../useWallet';
 import useBCH from '../useBCH';
 import { renderHook } from '@testing-library/react-hooks';

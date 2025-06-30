@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 type CurrencyCode =
     | 'AED'
     | 'AFN'

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import React from 'react';
 import TokenListItem from './TokenListItem';
 import { Link } from 'react-router-dom';

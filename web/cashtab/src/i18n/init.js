@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { init } from 'fbt';
 import translations from '../translatedFbts.json';
 import locales from './locales';

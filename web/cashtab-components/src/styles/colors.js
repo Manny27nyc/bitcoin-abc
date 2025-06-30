@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 const colors = {
     brand500: '#F59332',
     brand700: '#F59332',

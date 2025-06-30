@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { create } from '@storybook/theming/create';
 import themeImg from '../public/cashtab-components.png';
 

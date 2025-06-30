@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 export const retry = async (func, { delay = 100, tries = 3 } = {}) => {
     try {
         return await Promise.resolve(func());

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 <TS language="es_CO" version="2.1">
 <context>
     <name>AddressBookPage</name>
