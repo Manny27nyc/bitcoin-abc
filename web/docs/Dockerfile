@@ -24,7 +24,7 @@ COPY . .
 RUN npm run build
 
 # Stage 2
-FROM nginx
+FROM nginx:1
 COPY nginx.conf /etc/nginx/conf.d/default.conf
 # Set working directory to nginx asset directory
 # Copy static assets from builder stage
