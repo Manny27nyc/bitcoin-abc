@@ -9,7 +9,7 @@
         "react-dom": "^17.0.1"
     },
     "dependencies": {
-        "@babel/preset-typescript": "^7.12.7",
+        "@babel/preset-typescript": "^7.16.0",
         "@testing-library/jest-dom": "^5.11.4",
         "@testing-library/react": "^11.1.0",
         "@testing-library/user-event": "^12.1.10",
